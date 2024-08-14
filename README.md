@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rey2512&label=Profile%20views&color=0e75b6&style=flat" alt="rey2512" /> </p>
 
-- 🔭 I’m currently working on **Health Care Mangement System**
+- 🔭 I’m currently working on **Recruitlee**
 
 - 🌱 I’m currently learning **MERN , DSA**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react , mySQL, Aws**
 
-- 📫 How to reach me **heyprasenjeet@gmail.com**
+- 📫 How to reach me **iprasenjeetsingh@gmail.com**
 
 - ⚡ Fun fact **I am Jack of all Trades**
 
