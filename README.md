@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Project**
 
-- 👨‍💻 All of my projects are available at [https://reyportfolio.netlify.app/](https://reyportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://prasenjeetsingh.netlify.app/))
 
 - 💬 Ask me about **react , mySQL, Aws**
 
