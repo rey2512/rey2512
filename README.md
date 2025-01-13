@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML Project**
 
-- 👨‍💻 All of my projects are available at [(https://prasenjeetsingh.netlify.app/))
+- 👨‍💻 All of my projects are available at [(https://prasenjeetsingh.tech/))
 
 - 💬 Ask me about **react , mySQL, Aws**
 
