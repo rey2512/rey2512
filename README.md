@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://prasenjeetsingh.me/))
 
-- 💬 Ask me about **react , mySQL, Aws**
+- 💬 Ask me about **react , mySQL, AI/ML**
 
 - 📫 How to reach me **iprasenjeetsingh@gmail.com**
 
