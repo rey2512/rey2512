@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Something Extraordinary**
 
-- 🌱 I’m currently learning **MERN , DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **AI/ML Project**
 
